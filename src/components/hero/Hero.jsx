@@ -15,7 +15,7 @@ import { Link as ScrollLink } from 'react-scroll';
 
 const mySlider = [
   { text: "LAPTOP", link: "src/images/dell-yNvVnPcurD8-unsplash.jpg" },
-  { text: "PHONE", link: "src/images/screen-post-0ePrvkOL3bw-unsplash.jpg" },
+  { text: "PHONE", link: "src/images/lalo.jpg" },
   { text: "MOUSE", link: "src/images/Screenshot 2024-05-13 111633.png" },
 ];
 export default function Hero() {
